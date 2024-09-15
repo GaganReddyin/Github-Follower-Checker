@@ -1,5 +1,4 @@
 # Github-Follower-Checker
-# GitHub Follower Checker
 
 This is a Next.js application that allows users to sign in with their GitHub account and view their followers.
 
